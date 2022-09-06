@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "name": "factorization",
+  "version": "1.0.0",
+  "main": "Factorial.js",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
